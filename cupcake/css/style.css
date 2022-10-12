@@ -1,18 +1,39 @@
-h1 {
-
+h1.flashy {
+  color:rgb(174, 17, 17);
+  font-style: italic;
 }
 
-h2 {
+h2.flashy {
+  color:rgb(174, 17, 17);
+  font-style: italic;
+}
 
+h3.flashy {
+  color:rgb(174, 17, 17);
+  font-style: italic;
 }
 
 p {
-
+  font-size: 20px;
+  
 }
 p.intro {
   width: 50%;
   font-style: italic;
 }
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p.important {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
 
 body { 
   background-color: bisque;
