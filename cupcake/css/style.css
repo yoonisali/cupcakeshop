@@ -1,0 +1,19 @@
+h1 {
+
+}
+
+h2 {
+
+}
+
+p {
+
+}
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+body { 
+  background-color: bisque;
+}
