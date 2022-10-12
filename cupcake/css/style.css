@@ -13,6 +13,11 @@ h3.flashy {
   font-style: italic;
 }
 
+li.best {
+  color:green;
+  font-size: large;
+}
+
 p {
   font-size: 20px;
   
