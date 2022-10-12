@@ -1,0 +1,15 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.fish-type {
+  color: green;
+}
+
+.highlight {
+  color: yellow;
+}
