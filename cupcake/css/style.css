@@ -1,6 +1,7 @@
 h1.flashy {
   color:rgb(174, 17, 17);
   font-style: italic;
+  text-align: center;
 }
 
 h2.flashy {
@@ -15,7 +16,12 @@ h3.flashy {
 
 li.best {
   color:green;
-  font-size: large;
+  font-size:larger;
+}
+
+img.intro {
+  width: 450px;
+  height: 450px;
 }
 
 p {
@@ -42,4 +48,5 @@ p.important {
 
 body { 
   background-color: bisque;
+  text-align: center;
 }
