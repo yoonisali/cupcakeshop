@@ -79,9 +79,15 @@ ul {
 }
 
 .sidebar {
+  width: 15%;
   float:left;
+  background-color: yellow;
 }
 
+.column {
+  width: 25%;
+  float: right;
+}
 img {
  
 }
